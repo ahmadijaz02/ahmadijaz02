@@ -1,157 +1,366 @@
-<h1 align="center">👋 Hi there, I'm Ahmad Ijaz</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmadijaz92/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:mahmadijaz192@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="https://github.com/ahmadijaz02"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=180&text=Ahmad%20Ijaz&fontSize=65&color=0:0d1117,50:161b27,100:0d1117&fontColor=10B981&stroke=10B981&strokeWidth=2&fontAlignY=55&desc=Generative%20AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Architect&descSize=16&descAlignY=78&descFontColor=6e7681"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;AI%2FML+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-</p>
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1200&color=10B981&center=true&vCenter=true&width=650&lines=Text+LLMs+%7C+Image+Models+%7C+AI+Agents;Fine-Tuning+%7C+RAG+Pipelines+%7C+Transformers;MERN+%7C+Next.js+14+%7C+AI-Integrated+Web+Apps;End-to-End%3A+Idea+%E2%86%92+Model+%E2%86%92+Product)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ahmadijaz92/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:mahmadijaz192@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://wa.me/923057748028"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://ahmad-portfolio-nine.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ahmadijaz02&style=flat-square&color=10B981&label=Profile+Views)
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 🧬 The Architecture of Intelligence
 
-Software Engineer passionate about **algorithms**, **system design**, and **applied AI**. I specialize in building full-stack applications and machine learning solutions with a focus on scalability and performance.
+<div align="center">
 
-- 🔭 Currently working on **AI-powered applications** and **microservices architecture**
-- 🌱 Exploring **advanced ML techniques**, **distributed systems**, and **Web3.0**
-- 👯 Looking to collaborate on **open-source projects**
-- 💬 Ask me about **Full-Stack Development**, **Machine Learning**, **System Design**
-- 📍 Based in **Pakistan**
+> *"Most developers build applications. I build intelligent systems — where software is the vehicle and AI is the engine."*
+
+</div>
+
+I exist at the **intersection of two worlds** that most people keep separate: the disciplined architecture of **software engineering** and the mathematical depth of **Generative AI**. Based in **Faisalabad, Pakistan**, shaped by **FAST NUCES Software Engineering**, and driven by one mission — to architect the next generation of intelligent, autonomous systems.
+ <div align="center">
+   When you work with me, you get end-to-end ownership
+ <h2>concept → architecture → model → product → deployment.</h2>
+ </div>
+
+## ◈ What I Actually Do
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Text-Based AI (LLMs)
+**Models I work with deeply:**
+> `BERT` · `BART` · `T5` · `GPT` · `LLaMA` · `DeepSeek`
+
+- **Fine-Tuning** — LoRA, QLoRA, PEFT on HuggingFace models for domain-specific accuracy
+- **RAG Systems** — Hybrid search, re-ranking, multi-query, agentic retrieval — full pipeline
+- **Chatbots & Copilots** — Context-aware, memory-enabled, tool-using conversational AI
+- **Built Transformer from Scratch** — Self-attention, positional encoding, encoder-decoder — zero pre-trained weights, pure PyTorch math
+
+</td>
+<td width="50%" valign="top">
+
+### 🖼️ Image-Based AI (Vision Models)
+**Models I work with deeply:**
+> `GAN` · `cGAN` · `ESRGAN` · `Pix2Pix` · `Stable Diffusion`
+
+- **GANs & Conditional GANs** — Image synthesis, style control, conditional generation
+- **ESRGAN** — Super-resolution, restoring low-quality images to high fidelity
+- **Pix2Pix** — Image-to-image translation, domain transformation
+- **Diffusion Models** — Stable Diffusion pipelines, ControlNet, custom LoRA training for image generation
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI Agents & Automation
+**What I build beyond chatbots:**
+- **ReAct Agents** — Autonomous reasoning + action loops
+- **Multi-Agent Pipelines** — Specialized agents collaborating via LangGraph
+- **Tool-Using Systems** — APIs, databases, web search, code execution
+- **Memory Architectures** — Short-term, long-term, vectorstore-backed memory
+- **Business Automation** — Customer service, reporting, content generation — hands-free
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Full Stack Web (AI-Native)
+**How I ship it to the world:**
+- **Next.js 14 + MERN** — Modern, scalable, production-ready web apps
+- **AI-Integrated Platforms** — Real-time streaming AI responses in web UIs
+- **Unique Frontend Design** — No templates. Custom visual identity every time
+- **API Architecture** — Clean REST/GraphQL backends purpose-built for AI workflows
+- **Cloud Deployment** — Vercel, AWS, GCP — optimized for AI workloads
+
+</td>
+</tr>
+</table>
+
+---
+## ◈ Deep Expertise — Expanded
+
+<details>
+<summary><b>🔬 LLM Fine-Tuning — What I actually do under the hood</b></summary>
+<br/>
+
+| Technique | Where I Apply It |
+|---|---|
+| **LoRA** | Parameter-efficient adapter training on BERT, GPT, LLaMA |
+| **QLoRA** | 4-bit quantized fine-tuning for consumer hardware constraints |
+| **PEFT** | Full HuggingFace PEFT library integration across model families |
+| **Instruction Tuning** | Alpaca-style datasets, custom chat templates |
+| **Custom Training Loops** | PyTorch-native loops with warmup schedulers, label smoothing |
+
+**Models fine-tuned for real tasks:**
+- `BERT` → Text classification, NER, semantic similarity
+- `T5` → Multi-task text-to-text, summarization, Q&A
+- `BART` → Abstractive summarization, seq2seq generation
+- `LLaMA 2/3` → Local deployment with GGUF, LoRA adaptation
+- `GPT` → Instruction following, domain Q&A
+- `DeepSeek` → Code generation, reasoning-heavy tasks
+
+</details>
+
+<details>
+<summary><b>🔬 RAG Pipelines — Advanced, not basic</b></summary>
+<br/>
+
+```
+Raw Documents
+     │
+     ▼
+Intelligent Chunking  ──── semantic / recursive / hierarchical
+     │
+     ▼
+Embedding Generation  ──── OpenAI · HuggingFace · Cohere
+     │
+     ▼
+Vector Store          ──── Pinecone · ChromaDB · FAISS · Weaviate
+     │
+     ▼
+Hybrid Search         ──── Dense (embeddings) + Sparse (BM25)
+     │
+     ▼
+Re-Ranking            ──── Cohere Rerank · Cross-Encoder
+     │
+     ▼
+LLM Response          ──── Grounded · Cited · Hallucination-Free
+```
+
+**Advanced RAG patterns I implement:**
+- **Multi-Query RAG** — Multiple query variants for broader recall
+- **Self-RAG** — Model decides when retrieval is needed
+- **Parent-Child Chunking** — Precise retrieval with full context return
+- **Agentic RAG** — Agents that query, update, and reason over knowledge bases
+- **Graph RAG** — Knowledge graphs for complex relational reasoning
+
+</details>
+
+<details>
+<summary><b>🔬 Image Generation Models — GAN to Diffusion</b></summary>
+<br/>
+
+| Model | What I build with it |
+|---|---|
+| **GAN** | Adversarial image synthesis from scratch, latent space manipulation |
+| **cGAN** | Conditional generation — control what the model outputs |
+| **ESRGAN** | 4x/8x super-resolution, restoring degraded images |
+| **Pix2Pix** | Paired image translation — sketches to photos, maps to satellite |
+| **Stable Diffusion** | Custom pipelines, txt2img, img2img, inpainting |
+| **ControlNet** | Pose/edge/depth-guided generation for precise visual outputs |
+| **Diffusion LoRA** | Fine-tuning diffusion models on custom image datasets |
+
+</details>
+
+<details>
+<summary><b>🔬 Transformer Architecture — Built from scratch in PyTorch</b></summary>
+<br/>
+
+Every component implemented from first principles. No copy-paste. No shortcuts.
+
+```python
+class TransformerFromScratch:
+    ✅ Multi-Head Self-Attention      # Q, K, V projections, scaled dot-product
+    ✅ Positional Encoding            # Sinusoidal frequencies, learnable variants
+    ✅ Feed-Forward Network           # Two-layer MLP with GELU activation
+    ✅ Layer Normalization            # Pre-LN architecture for training stability
+    ✅ Encoder Stack                  # N-layer stacked with residual connections
+    ✅ Decoder Stack                  # Masked self-attention + cross-attention
+    ✅ Causal Masking                 # Autoregressive generation support
+    ✅ Training Loop                  # Warmup scheduler, label smoothing, gradient clipping
+```
+
+This is proof of **mathematical ownership** — I understand what's happening inside the model, not just how to call it.
+
+</details>
+
+<details>
+<summary><b>🔬 AI Agents & Autonomous Workflows</b></summary>
+<br/>
+
+**Agent architectures I design:**
+
+| Pattern | Description |
+|---|---|
+| **ReAct** | Reason-then-Act loop until goal completion |
+| **Tool-Use** | Web search, code execution, DB queries, API calls |
+| **Multi-Agent** | Planner + Executor + Critic agents via LangGraph |
+| **Memory** | Buffer memory, entity memory, vectorstore long-term recall |
+| **Streaming** | Token-by-token reasoning streamed to frontend in real-time |
+
+**Real automation pipelines:**
+- 🗂️ Classify and auto-respond to customer support tickets
+- 📊 Pull live DB data → generate formatted business reports
+- 📧 Research → draft → send personalized outreach autonomously
+- 🔍 Multi-step research agents with web browsing and synthesis
+
+</details>
 
 ---
 
-## 💼 Skills & Technologies
+## ◈ Tech Arsenal
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+<div align="center">
+
+### AI & Machine Learning
+<p><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,python"/></p>
+
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-2D6A4F?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-003566?style=flat-square)
+![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-8B5CF6?style=flat-square)
+![ControlNet](https://img.shields.io/badge/ControlNet-EC4899?style=flat-square)
+</br>
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=flat-square)
+![vLLM](https://img.shields.io/badge/vLLM-090909?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=flat-square&logo=ollama&logoColor=black)
+![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
+![LangSmith](https://img.shields.io/badge/LangSmith-FFFFFF?style=flat-square&logo=langchain&logoColor=black)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4F00?style=flat-square)
+![Weaviate](https://img.shields.io/badge/Weaviate-130C49?style=flat-square&logo=weaviate&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<p><img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css,redux,vue,svelte,sass,bootstrap"/></p>
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+### Backend & Databases
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask,django,mongodb,postgresql,mysql,redis,sqlite"/></p>
 
-### ML/AI
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+### Cloud & DevOps
+<p><img src="https://skillicons.dev/icons?i=docker,aws,gcp,vercel,git,github,linux,postman,figma,vscode"/></p>
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+</div>
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+---
+## ◈ GitHub Stats
+
+<div align="center">
+  <!-- STREAK STATS - Alternative working domain -->
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ahmadijaz02&theme=github-dark-blue&hide_border=true&stroke=10B981&ring=10B981&fire=a78bfa&currStreakLabel=10B981&background=0d1117&sideLabels=6e7681&dates=6e7681" width="45%"/>
+  
+  
+  <!-- ACTIVITY GRAPH - Alternative: Use Metrics or remove -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadijaz02&bg_color=0d1117&color=10B981&line=10B981&point=a78bfa&hide_border=true&area=true&area_color=10B98122" width="45%"/>
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadijaz02&theme=tokyonight" />
+</div>
 
 ---
 
-## 🌟 Featured Projects
+## ◈ What I Can Build For You
 
-### 🏥 [Hospital Management System](https://github.com/ahmadijaz02/Hospital-Management-System)
-A comprehensive microservices-based hospital management platform with patient/doctor management, appointment scheduling, medical records, and real-time chat.
-- **Tech Stack:** MERN Stack, MongoDB, MySQL, Docker, Microservices
-- **Features:** Real-time chat, secure authentication, medical records management
+<div align="center">
 
-### 💼 [SkillSwap Platform](https://github.com/ahmadijaz02/SkillSwap-Platform)
-Full-stack freelance marketplace connecting freelancers and clients in Pakistan with real-time bidding, messaging, and project management.
-- **Tech Stack:** MERN Stack, Microservices, MongoDB, WebSockets
-- **Features:** Real-time bidding, messaging, role-based authentication, analytics
+| 🧠 AI Systems | 🌐 Web Platforms | ⚙️ Business Automation |
+|:---|:---|:---|
+| Custom LLM fine-tuned for your domain | Next.js 14 + MERN full-stack apps | AI agents running 24/7 without humans |
+| RAG over your internal knowledge base | AI-integrated, real-time web platforms | Auto customer service & support bots |
+| Conversational AI copilots & chatbots | Unique, creative UI — never templated | Automated reporting from live data |
+| Image generation & vision pipelines | REST/GraphQL APIs for AI workflows | End-to-end workflow orchestration |
+| Multi-agent autonomous systems | Cloud-deployed, scalable architecture | Intelligent content generation pipelines |
 
-### 🎓 [EduConnect Web App](https://github.com/ahmadijaz02/educonnect-webapp)
-Online tutoring platform connecting students with verified tutors, featuring session booking, reviews, and admin analytics.
-- **Tech Stack:** React, Node.js, Express, MongoDB
-- **Features:** Tutor profiles, booking system, review system, notifications
-
-### 🍔 [Food POS System](https://github.com/ahmadijaz02/Food-POS-System)
-Complete Point of Sale system for restaurants with order management, inventory tracking, and reporting.
-- **Tech Stack:** PHP, MySQL
-- **Features:** Order management, inventory tracking, sales reports
-
-### 🤖 [Voice Cloning API](https://github.com/ahmadijaz02/Voice-Cloning-API)
-AI-powered voice cloning API using FastAPI and PyTorch for generating lifelike speech from audio and text inputs.
-- **Tech Stack:** Python, FastAPI, PyTorch
-- **Features:** Voice synthesis, audio processing, REST API
-
-### 🔍 [Plagiarism Detector](https://github.com/ahmadijaz02/Plagiarism-Detector)
-Python-based plagiarism detection system for code submissions using Rabin-Karp algorithm and graph-based clustering.
-- **Tech Stack:** Python, Graph Algorithms, B+ Tree
-- **Features:** Code similarity detection, clustering, metadata indexing
-
-### ♟️ [Multiplayer Chess Game](https://github.com/ahmadijaz02/Multiplayer-Chess-Game)
-Real-time multiplayer chess game with matchmaking lobby, spectator mode, and chat support.
-- **Tech Stack:** Python, Socket Programming
-- **Features:** Matchmaking, spectator mode, real-time gameplay, chat
-
-### 🔐 [WhatsApp Shopify Extension](https://github.com/ahmadijaz02/Whatsopify-web-Extension)
-Chrome extension integrating Shopify with WhatsApp Web for managing customer support and orders.
-- **Tech Stack:** JavaScript, Chrome Extension API
-- **Features:** Product sharing, order placement, customer support
-
-### 🧠 [Empathetic Conversational Chatbot](https://github.com/ahmadijaz02/Empathetic-Conversational-Chatbot)
-Transformer-based chatbot with multi-head attention for empathetic conversations.
-- **Tech Stack:** Python, PyTorch, Transformers
-- **Features:** Empathetic responses, attention mechanism
-
-### 🤖 [GenAI Projects](https://github.com/ahmadijaz02/GenAI-P4)
-Collection of Generative AI projects exploring cutting-edge AI/ML techniques.
-- **Tech Stack:** Python, TensorFlow, PyTorch
-- **Features:** Text generation, image processing, model fine-tuning
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🤝 Let's Connect & Collaborate
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadijaz02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadijaz02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://www.linkedin.com/in/ahmadijaz92/">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="60"/><br/>
+        <b>LinkedIn</b><br/>
+        <sub>Professional Network</sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="mailto:mahmadijaz192@gmail.com">
+        <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="55"/><br/>
+        <b>Email</b><br/>
+        <sub>mahmadijaz192@gmail.com</sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://wa.me/923057748028">
+        <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="55"/><br/>
+        <b>WhatsApp</b><br/>
+        <sub>Quick Chat</sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://ahmad-portfolio-nine.vercel.app/">
+        <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="55"/><br/>
+        <b>Portfolio</b><br/>
+        <sub>See My Work</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://cdn-icons-png.flaticon.com/512/1483/1483336.png" width="55"/>
+      <br/>
+      <h3>🤝 Collaborations</h3>
+      <p>Open for Open Source contributions,<br/>GenAI research, and joint projects</p>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://cdn-icons-png.flaticon.com/512/906/906377.png" width="55"/>
+      <br/>
+      <h3>💼 Freelance</h3>
+      <p>AI Agents, RAG Systems,<br/>Full Stack AI Web Apps</p>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://cdn-icons-png.flaticon.com/512/2933/2933116.png" width="55"/>
+      <br/>
+      <h3>🎯 Opportunities</h3>
+      <p>Open to roles in GenAI Engineering,<br/>ML Engineering & AI Architecture</p>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
-## 📈 Contribution Graph
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadijaz02&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" alt="Contribution Graph"/>
-</p>
 
----
 
-## 📫 Let's Connect!
+*The gap between an AI researcher and a software engineer is where most projects stall.*
+*I close that gap — and ship.*
 
-I'm always open to interesting conversations and collaboration opportunities!
+**⭐ Star what helps you. Fork what inspires you.**
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ahmadijaz92/)
-- 📧 [Email](mailto:mahmadijaz192@gmail.com)
-- 🌐 [Portfolio](https://ahmadijaz02.github.io/ahmadijaz02portfolio/)
-- 💻 [GitHub](https://github.com/ahmadijaz02)
+</div>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmadijaz02&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/ahmadijaz02">ahmadijaz02</a> - Feel free to reach out!</i>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:10B98133,100:0d1117&height=100&section=footer"/>
